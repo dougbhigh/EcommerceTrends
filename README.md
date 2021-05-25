@@ -5,6 +5,4 @@ With the current (July 2020) global pandemic response of closing retail business
 #
 ![chart1](https://github.com/dougbhigh/EcommerceTrends/blob/main/myFolder/temp1/Data/USCensus_joint_201920_monthly_sales.png)
 #
-![chart2](https://github.com/dougbhigh/EcommerceTrends/blob/main/myFolder/temp1/Data/USCensus_joint_tenyear_monthly_growth.png)
-#
-![chart3](https://github.com/dougbhigh/EcommerceTrends/blob/main/myFolder/temp1/Data/USCensus_monthly_percentage_10yr_box_ecomm.png)
+![chart2](https://github.com/dougbhigh/EcommerceTrends/blob/main/myFolder/temp1/Data/USCensus_monthly_percentage_10yr_box_ecomm.png)
